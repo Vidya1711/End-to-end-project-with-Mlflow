@@ -1,0 +1,15 @@
+artifact_uri: file:///home/miniuser/MLOPS/End-to-end-project-with-Mlflow/mlruns/0/866c257777aa4adab2af5da2a02418e5/artifacts
+end_time: 1702021289231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 866c257777aa4adab2af5da2a02418e5
+run_name: industrious-cod-122
+run_uuid: 866c257777aa4adab2af5da2a02418e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702021289198
+status: 4
+tags: []
+user_id: miniuser

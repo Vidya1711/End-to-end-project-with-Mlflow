@@ -1,0 +1,15 @@
+artifact_uri: file:///home/miniuser/MLOPS/End-to-end-project-with-Mlflow/mlruns/0/c9ff7f83cc9f4a6b9c86aecb5e6fe489/artifacts
+end_time: 1702025745775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9ff7f83cc9f4a6b9c86aecb5e6fe489
+run_name: learned-doe-220
+run_uuid: c9ff7f83cc9f4a6b9c86aecb5e6fe489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702025744314
+status: 3
+tags: []
+user_id: miniuser

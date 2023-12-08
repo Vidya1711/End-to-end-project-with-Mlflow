@@ -1,0 +1,15 @@
+artifact_uri: file:///home/miniuser/MLOPS/End-to-end-project-with-Mlflow/mlruns/0/c1000199fea64c3890e0c2d06ae3c3e3/artifacts
+end_time: 1702029215217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1000199fea64c3890e0c2d06ae3c3e3
+run_name: efficient-jay-631
+run_uuid: c1000199fea64c3890e0c2d06ae3c3e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702029213710
+status: 3
+tags: []
+user_id: miniuser

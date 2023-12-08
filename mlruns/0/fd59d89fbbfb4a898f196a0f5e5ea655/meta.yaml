@@ -1,0 +1,15 @@
+artifact_uri: file:///home/miniuser/MLOPS/End-to-end-project-with-Mlflow/mlruns/0/fd59d89fbbfb4a898f196a0f5e5ea655/artifacts
+end_time: 1702025268931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd59d89fbbfb4a898f196a0f5e5ea655
+run_name: unleashed-grub-395
+run_uuid: fd59d89fbbfb4a898f196a0f5e5ea655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702025266847
+status: 3
+tags: []
+user_id: miniuser

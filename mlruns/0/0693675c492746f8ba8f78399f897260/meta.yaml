@@ -1,0 +1,15 @@
+artifact_uri: file:///home/miniuser/MLOPS/End-to-end-project-with-Mlflow/mlruns/0/0693675c492746f8ba8f78399f897260/artifacts
+end_time: 1702027910505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0693675c492746f8ba8f78399f897260
+run_name: zealous-frog-623
+run_uuid: 0693675c492746f8ba8f78399f897260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702027908322
+status: 3
+tags: []
+user_id: miniuser

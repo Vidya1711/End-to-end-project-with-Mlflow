@@ -1,0 +1,15 @@
+artifact_uri: file:///home/miniuser/MLOPS/End-to-end-project-with-Mlflow/mlruns/0/dedef001b0e14152927e492838ba8856/artifacts
+end_time: 1702025882203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dedef001b0e14152927e492838ba8856
+run_name: fun-quail-294
+run_uuid: dedef001b0e14152927e492838ba8856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702025880645
+status: 3
+tags: []
+user_id: miniuser
